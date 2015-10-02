@@ -4,6 +4,7 @@ system("head ../input/*")
 ### Kaggle Scripts: Ponpare Coupon Purchase Prediction ###
 ### Original Author: Subhajit Mandal ###
 ### Some score improving changes by Fred H Seymour
+### My role is to just tune the weights.. all credits to the awesome authors of the code & kaggle community
 
 start.time <- Sys.time()
 dir <- '../input/'
